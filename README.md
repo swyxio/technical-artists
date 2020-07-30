@@ -9,3 +9,7 @@ technical-artists
 sketch notes
 
 - https://twitter.com/graphqlsummit/status/1288874511585009665?s=20
+
+misc
+
+- https://mobile.twitter.com/tonika_carter worked on shanselman YouTube 
