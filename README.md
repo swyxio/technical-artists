@@ -14,3 +14,4 @@ misc
 
 - https://mobile.twitter.com/tonika_carter worked on shanselman YouTube 
 - https://www.kristinamatuska.com/ worked on blitzjs
+- https://www.illustratorhub.com/
