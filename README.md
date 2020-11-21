@@ -9,6 +9,7 @@ technical-artists
 sketch notes
 
 - https://twitter.com/graphqlsummit/status/1288874511585009665?s=20
+- https://www.awsgeek.com/KubeCon-Virtual-2020/
 
 misc
 
