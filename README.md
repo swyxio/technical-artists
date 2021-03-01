@@ -4,6 +4,7 @@ technical-artists
 
 - https://twitter.com/emilywithcurls graphql slides
 - hammer/sticker https://twitter.com/SoSplush
+- artstation - what geddski uses - 80-2k per illo
 
 maggie's list
 
