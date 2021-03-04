@@ -21,6 +21,7 @@ sketch notes
 - https://twitter.com/graphqlsummit/status/1288874511585009665?s=20
 - https://www.awsgeek.com/KubeCon-Virtual-2020/
 - https://thesketcheffect.com/ about 5-10k
+- https://www.wearecognitive.com/blog/digital-scribing-what-is-it-how-does-it-work-benefits
 
 misc
 
