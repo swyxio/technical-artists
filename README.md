@@ -27,6 +27,7 @@ misc
 
 - https://mobile.twitter.com/tonika_carter worked on shanselman YouTube 
 - https://www.kristinamatuska.com/ worked on blitzjs
+- https://twitter.com/made_by_betty worked on rescript
 - https://www.illustratorhub.com/
 - https://twitter.com/Cornerstone_Vic
 - https://twitter.com/JrCasas_ josh pigford
