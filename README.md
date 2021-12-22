@@ -23,6 +23,11 @@ sketch notes
 - https://thesketcheffect.com/ about 5-10k
 - https://www.wearecognitive.com/blog/digital-scribing-what-is-it-how-does-it-work-benefits
 
+
+blender/animations
+
+- leifpixel did the anims for frontendhorse stream https://twitter.com/joshwcomeau/status/1473692320042258437?s=21
+
 misc
 
 - https://mobile.twitter.com/tonika_carter worked on shanselman YouTube 
