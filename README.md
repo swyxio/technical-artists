@@ -37,5 +37,6 @@ misc
 - https://twitter.com/Cornerstone_Vic
 - https://twitter.com/JrCasas_ josh pigford
 - https://twitter.com/thewomenwhodraw val giesler
+- https://twitter.com/i/lists/1471403440760889349
 - more recs 
   - https://twitter.com/natalienagele/status/1326940815839682561?s=20
