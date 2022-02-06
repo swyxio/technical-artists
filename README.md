@@ -1,3 +1,5 @@
+> this list has been moved to https://github.com/sw-yx/brain
+
 # technical-artists
 technical-artists
 
